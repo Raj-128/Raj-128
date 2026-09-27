@@ -23,11 +23,13 @@ Email Me 👉 ✉️ **rajpatil052003@gmail.com** For Collaboration/Project or A
 
 # 📊 GitHub Stats:
 ![](https://shion.dev)<br/>
-![](https://demolab.com)<br/>
+![](https://streak-stats.demolab.com/?user=Raj-128&theme=dark&hide_border=false)<br/>
 ![](https://shion.dev)
 
-## 🛡️ My Achievements & Badges
+## 🏆 GitHub Trophies
+![](https://amaranthus.cloud)
 
+## 🛡️ My Achievements
 ![](https://vercel.app)
 
 
@@ -35,4 +37,3 @@ Email Me 👉 ✉️ **rajpatil052003@gmail.com** For Collaboration/Project or A
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
