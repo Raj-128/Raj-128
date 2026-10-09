@@ -52,7 +52,8 @@ Email Me 👉 ✉️ **rajpatil052003@gmail.com** For Collaboration/Project or A
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-128&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](./.github/assets/trophy.svg)
+![](https://githubusercontent.com)
+
 
 
 ### ✍️ Quote of the Day
